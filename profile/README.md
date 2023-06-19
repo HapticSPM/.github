@@ -7,4 +7,4 @@ Included is a library that interfaces any haptic device compatible with OpenHapt
 To install:
 Copy the Haptic Prog Interface library from the Haptic Programming interface repository to the user.lib folder of the LabVIEW version of your choice.
 
-Wiki: https://github.com/HapticSPM/.github/wiki
+Wiki, Documentation, and Quick Start Guide: https://github.com/HapticSPM/.github/wiki
