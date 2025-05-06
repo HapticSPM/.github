@@ -8,3 +8,6 @@ To install:
 Copy the Haptic Prog Interface library from the Haptic Programming interface repository to the user.lib folder of the LabVIEW version of your choice.
 
 Wiki, Documentation, and Quick Start Guide: https://github.com/HapticSPM/.github/wiki
+
+To install Unity-based simulation: https://github.com/HapticSPM/Unity-Interface/releases/download/v3.0.0/HapticSPMInstaller.exe
+Release notes: https://github.com/HapticSPM/Unity-Interface/releases/tag/v3.0.0/HapticSPMInstaller.exe
